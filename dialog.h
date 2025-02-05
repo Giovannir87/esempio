@@ -9,6 +9,8 @@ class Dialog;
 }
 QT_END_NAMESPACE
 
+// CIAO
+
 class Dialog : public QDialog
 {
     Q_OBJECT
